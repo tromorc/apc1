@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
-  printf("Fausto José Alves da Cunha");
+
+  printf("Fausto José Alve da Cunha\n");
+
   return 0;
 }
